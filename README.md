@@ -4,7 +4,7 @@ Este é um projeto de uma calculadora de meta financeira em Python que permite a
 
 ## Pré-requisitos
 
-- Python 3.10.12
-- A biblioteca Tkinter (geralmente já está incluída na instalação padrão do Python).
+- [Python](https://www.python.org/) 3.10.12
+- A biblioteca [Tkinter](https://docs.python.org/pt-br/3/library/tkinter.html) (geralmente já está incluída na instalação padrão do Python).
 
-Projeto desenvolvido no durante o Módulo 2 da Formação Match! (turma julho/2023)
+Projeto desenvolvido durante o Módulo 2 da [Formação Match!](https://match.mastertech.com.br/) (turma julho/2023)
